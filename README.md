@@ -34,15 +34,18 @@ Ce projet a pour objectif de comprendre et de mettre en pratique les concepts fo
 ### Premier résultat attendu
 
 <img width="472" height="159" alt="200" src="https://github.com/user-attachments/assets/6bef66d1-b045-4812-8193-c1e12ba6cb2f" />
-Exécution de l'application en activant le profil de production (prod), démontrant la sélection dynamique de l'implémentation DaoImpl2 grâce à l'annotation @Profile.
+
+**Exécution de l'application en activant le profil de production (prod), démontrant la sélection dynamique de l'implémentation DaoImpl2 grâce à l'annotation @Profile.
 
 ### Deuxième résultat attendu
 
 <img width="611" height="170" alt="300" src="https://github.com/user-attachments/assets/df6e5e11-7f5d-471f-829b-c1d649c1f51b" />
-Exécution de l'application en activant le profil de production (prod), démontrant la sélection dynamique de l'implémentation DaoImpl2 grâce à l'annotation @Profile.
+
+**Exécution de l'application en activant le profil de production (prod), démontrant la sélection dynamique de l'implémentation DaoImpl2 grâce à l'annotation @Profile.
 
 <img width="619" height="215" alt="image" src="https://github.com/user-attachments/assets/cd1330e4-44df-4219-8535-011fe3708228" />
-Validation de la variante de configuration par fichier XML (applicationContext.xml), exécutée via la classe de présentation dédiée PresentationXml.java.
+
+**Validation de la variante de configuration par fichier XML (applicationContext.xml), exécutée via la classe de présentation dédiée PresentationXml.java.
 
 ## 👩‍💻 Auteure
 ### Sara Ouaday
