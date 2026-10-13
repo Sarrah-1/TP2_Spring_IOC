@@ -10,9 +10,8 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan(basePackages = {"dao", "metier"})
 public class Presentation2 {
-
     public static void main(String[] args) {
-
+        System.setProperty("spring.profiles.active", "prod");
         ApplicationContext context = new AnnotationConfigApplicationContext(Presentation2.class);
 
         IMetier metier = context.getBean(IMetier.class);
